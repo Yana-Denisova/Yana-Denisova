@@ -1,5 +1,4 @@
 ### Hi  👋, I am Yana.
-#### Nice to Meet You.😊
 
 I'm Python enthusiast from Moscow.
 
